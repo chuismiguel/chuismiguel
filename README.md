@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chuismiguel
-- 👀 Robotics eingenieer wannabe, project starter but not project finisher.
+- 👀 Robotics engineer wannabe, project starter but not project finisher.
 - 📫 How to reach me: e-mail: luismilopez35@gmail.com
                       twitter: @chuismiguel
 
