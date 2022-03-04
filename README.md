@@ -3,7 +3,7 @@
 - 📧: luismiatm15@gmail.com
 - 🏫📧: lm.lopez.2019@alumnos.urjc.es
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuismguel)](https://github.com/chuismguel/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuismiguel)](https://github.com/chuismiguel/github-readme-stats)
 
 <!---
 chuismiguel/chuismiguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
