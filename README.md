@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @chuismiguel
-- 👀 Robotics engineer wannabe, project starter but not project finisher.
-- 📧: luismiatm15@gmail.com
-- 🏫📧: lm.lopez.2019@alumnos.urjc.es
+Github aberronchates against the living stonage.
+
+<a href="https://twitter.com/chuismiguel" target="blank"><img src="https://img.shields.io/twitter/follow/chuismiguel?logo=twitter&style=for-the-badge" alt="chuismiguel" /></a> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuismiguel)](https://github.com/chuismiguel/github-readme-stats)
 
