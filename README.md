@@ -1,4 +1,4 @@
-Github aberronchates against the living stonage.
+Nearly Robotics Engineer. Maker in the making.
 
 <a href="https://twitter.com/chuismiguel" target="blank"><img src="https://img.shields.io/twitter/follow/chuismiguel?logo=twitter&style=for-the-badge" alt="chuismiguel" /></a> 
 
