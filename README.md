@@ -1,4 +1,4 @@
-Nearly Robotics Engineer. Maker in the making.
+Robotics Engineer
 
 <a href="https://twitter.com/chuismiguelBots" target="blank"><img src="https://img.shields.io/twitter/follow/chuismiguelBots?logo=twitter&style=for-the-badge" alt="chuismiguelBots" /></a> 
 
